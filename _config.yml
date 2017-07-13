@@ -2,7 +2,7 @@ title: QBI-Software
 description: Custom Software Services and Resources for QBI, The University of Queensland
 google_analytics: 
 show_downloads: true
-theme: jekyll-theme-hacker
+theme: jekyll-theme-midnight
 
 gems:
   - jekyll-mentions
