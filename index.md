@@ -18,4 +18,4 @@ Requests for training in specific languages or technologies are welcome.
 ### Support or Contact
 Useful code can be kept in versioned repositories on the public [QBI-Software github repository](https://github.com/QBI-Software) so others may benefit.  If you have a good script or code package you'd like to share please contact me below to be added as a contributor.  Code access is available to all via the "Download" buttons available within each project. For further information, please contact Liz Cooper-Williams, Research Software Developer, QBI, [e.cooperwilliams@uq.edu.au](e.cooperwilliams@uq.edu.au).
 
-[banner]: "{{ site.github.repository_url }}/raw/gh-pages/img/Web banner - workshops.png"
+[banner]: {{ site.github.repository_url }}/raw/master/assets/img/Web banner - workshops.png
