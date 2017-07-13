@@ -1,7 +1,7 @@
 ## Welcome to the QBI Software Site
 A recent addition to QBI services is the capability to develop and manage custom software applications, macros, plugins, scripts or just provide assistance and advice on software matters for all staff and students at QBI free of charge.
 
-[banner]("assets/img/Web banner - workshops.png")
+![banner]("assets/img/Web banner - workshops.png")
 
 
 ### Applications
