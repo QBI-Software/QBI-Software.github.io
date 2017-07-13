@@ -1,6 +1,9 @@
 ## Welcome to the QBI Software Site
 A recent addition to QBI services is the capability to develop and manage custom software applications, macros, plugins, scripts or just provide assistance and advice on software matters for all staff and students at QBI free of charge.
 
+[banner]("assets/img/Web banner - workshops.png")
+
+
 ### Applications
 Custom software applications can be developed for QBI research teams to assist with analysis or data management.
 Examples so far include applications in Matlab, Python and Django, as well as NEURON models.
