@@ -13,6 +13,7 @@ Data and image analysis often requires several steps in preparing the data or im
 
 ### Training
 Introductory training courses are available covering basic computing skills such as using the Unix shell as well as user-friendly training for Python and R.
+Some developer guidelines are [here](https://github.com/QBI-Software/QBI-Software.github.io/blob/master/softwaredev.md)
 Requests for training in specific languages or technologies are welcome.
 
 ### Support or Contact
